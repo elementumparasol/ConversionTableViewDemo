@@ -8,6 +8,6 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface MainWindowController : NSWindowController <NSTableViewDelegate, NSTableViewDataSource>
+@interface MainWindowController : NSWindowController
 
 @end
